@@ -16,14 +16,9 @@
             <input type="text" name="nom" id="nom" placeholder="votre nom" required>
         </p>
         <p>
-            <label for="prenom">Prénom :</label>
+            <label for="prenom">*Prénom :</label>
             <br>
-            <input type="text" name="nom" id="prenom" placeholder="votre prénom">
-        </p>
-        <p>
-            <label for="age">Age :</label>
-            <br>
-            <input type="number" name="age" id="age" placeholder="votre âge">
+            <input type="text" name="prenom" id="prenom" placeholder="votre prénom" required>
         </p>
         <p>
             <label for="email">*Email :</label>
